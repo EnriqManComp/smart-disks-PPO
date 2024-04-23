@@ -46,13 +46,13 @@ The second function provides the agent with a positive reward proportional to th
 ## Training results
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/EnriqManComp/smart-disks-PPO/master/result%20images/train_results.png" width="250px" height="250px" />
+  <img src="https://raw.githubusercontent.com/EnriqManComp/smart-disks-PPO/master/result%20images/train_results.png" width="600px" height="350px" />
 </div>
 
 ## Test results
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/EnriqManComp/smart-disks-PPO/master/result%20images/test%20results.png" width="250px" height="250px" />
+  <img src="https://raw.githubusercontent.com/EnriqManComp/smart-disks-PPO/master/result%20images/test%20results.png" width="600px" height="350px" />
 </div>
 
 ## Video Demonstration
